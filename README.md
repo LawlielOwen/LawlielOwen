@@ -25,6 +25,8 @@
 
 ### 🧑‍💻 Sobre mí
 
+<img align="right" width="150" src="https://i.pinimg.com/736x/c1/04/8c/c1048c2d2ff63f691fcab726a715b300.jpg" alt="mi mascota personal" />
+
 Actualmente soy Técnico Superior Universitario (TSU) próximo a iniciar mi Ingeniería. Me enfoco en el desarrollo Full Stack y considero a Java y TypeScript como mis lenguajes principales.
 
 🔭 **Actualmente trabajo en:** desarrollo de soluciones multiplataforma, abarcando ecosistemas web, aplicaciones móviles y software de escritorio (mediante JavaFX).
@@ -33,7 +35,7 @@ Actualmente soy Técnico Superior Universitario (TSU) próximo a iniciar mi Inge
 
 ⚡ **En mi tiempo libre:** experimento con el Internet de las Cosas (IoT), integrando código con hardware mediante microcontroladores como ESP32 y sensores (ultrasónicos, temperatura, etc.).
 
-<br>
+<br clear="right"/>
 
 ### 🛠️ Lenguajes y herramientas
 
