@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/f4/e1/fd/f4e1fdc6630ce4e7bea3a6cbac6bb021.jpg" height="150" alt="banner personal" style="border-radius: 12px;" />
+<img src="./assets/banner-nostalgico.svg" width="700" alt="banner personal" style="border-radius: 12px;" />
 
 <br><br>
 
@@ -10,9 +10,10 @@
 
 <br><br>
 
-<img src="./assets/panel.svg" width="700" alt="Osvaldo — Desarrollador de Software Multiplataforma" />
+<h1 align="center">¡Hola! Soy Osvaldo 👋</h1>
+<h3 align="center">Desarrollador de Software Multiplataforma</h3>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/PACTO-Full%20Stack%20Dev-39D353?style=for-the-badge&labelColor=0D0D10" alt="pacto" />
 <img src="https://img.shields.io/badge/ENFOQUE-Java%20%26%20TypeScript-7A38D6?style=for-the-badge&labelColor=0D0D10" alt="enfoque" />
