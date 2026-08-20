@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-nostalgico.svg" width="700" alt="banner personal" style="border-radius: 12px;" />
-
+<img src="./assets/panel.svg" width="700" alt="banner personal" style="border-radius: 12px;" />
 <br><br>
 
 <a href="https://www.linkedin.com/in/osvaldogutierrezm" target="_blank">
