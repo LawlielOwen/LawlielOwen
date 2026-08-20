@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Reemplaza el enlace de 'src' con la URL de tu fotograma estético de los 90s -->
-<img src="URL_DE_TU_FOTOGRAMA_AQUI.jpg" height="150" alt="banner personal retro" style="border-radius: 8px;" />
+<img src="https://i.pinimg.com/736x/f4/e1/fd/f4e1fdc6630ce4e7bea3a6cbac6bb021.jpg" height="150" alt="banner personal" style="border-radius: 12px;" />
 
 <br><br>
 
@@ -11,16 +10,14 @@
 
 <br><br>
 
-<!-- Asegúrate de que este panel.svg esté en tu repositorio -->
 <img src="./assets/panel.svg" width="700" alt="Osvaldo — Desarrollador de Software Multiplataforma" />
 
 <br><br>
 
-<!-- Paleta de colores inspirada en tonos de animación clásica -->
-<img src="https://img.shields.io/badge/PACTO-Full%20Stack%20Dev-D90429?style=for-the-badge&labelColor=2B2D42" alt="pacto" />
-<img src="https://img.shields.io/badge/ENFOQUE-Java%20%26%20TypeScript-FF77A9?style=for-the-badge&labelColor=2B2D42" alt="enfoque" />
-<img src="https://img.shields.io/badge/APRENDIENDO-Linux%20%26%20Redes-00BFFF?style=for-the-badge&labelColor=2B2D42" alt="aprendiendo" />
-<img src="https://img.shields.io/badge/HOBBY-IoT%20%26%20ESP32-D90429?style=for-the-badge&labelColor=2B2D42" alt="hobby" />
+<img src="https://img.shields.io/badge/PACTO-Full%20Stack%20Dev-39D353?style=for-the-badge&labelColor=0D0D10" alt="pacto" />
+<img src="https://img.shields.io/badge/ENFOQUE-Java%20%26%20TypeScript-7A38D6?style=for-the-badge&labelColor=0D0D10" alt="enfoque" />
+<img src="https://img.shields.io/badge/APRENDIENDO-Linux%20%26%20Redes-39D353?style=for-the-badge&labelColor=0D0D10" alt="aprendiendo" />
+<img src="https://img.shields.io/badge/HOBBY-IoT%20%26%20ESP32-7A38D6?style=for-the-badge&labelColor=0D0D10" alt="hobby" />
 
 </div>
 
@@ -66,21 +63,21 @@ Actualmente soy Técnico Superior Universitario (TSU) próximo a iniciar mi Inge
 
 <br>
 
-### 🔥 My Stats
+### 🔥 Mis Estadísticas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LawlielOwen&show_icons=true&count_private=true&title_color=D90429&icon_color=FF77A9&text_color=E7E3DC&bg_color=00000000&hide_border=true&border_radius=8" alt="estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawlielOwen&layout=compact&title_color=00BFFF&text_color=E7E3DC&bg_color=00000000&hide_border=true&border_radius=8" alt="lenguajes más usados" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LawlielOwen&show_icons=true&count_private=true&title_color=39D353&icon_color=7A38D6&text_color=E7E3DC&bg_color=00000000&hide_border=true&border_radius=8" alt="estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawlielOwen&layout=compact&title_color=7A38D6&text_color=E7E3DC&bg_color=00000000&hide_border=true&border_radius=8" alt="lenguajes más usados" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=LawlielOwen&theme=dark&hide_border=true&background=00000000&ring=FF77A9&fire=D90429&currStreakLabel=E7E3DC&sideLabels=E7E3DC&currStreakNum=E7E3DC&sideNums=E7E3DC&dates=00BFFF" alt="racha de contribuciones" />
+<img src="https://streak-stats.demolab.com/?user=LawlielOwen&theme=dark&hide_border=true&background=00000000&ring=7A38D6&fire=39D353&currStreakLabel=E7E3DC&sideLabels=E7E3DC&currStreakNum=E7E3DC&sideNums=E7E3DC&dates=39D353" alt="racha de contribuciones" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LawlielOwen&color=D90429&style=for-the-badge&label=VISITAS" alt="visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=LawlielOwen&color=7A38D6&style=for-the-badge&label=VISITAS" alt="visitas al perfil" />
 </div>
