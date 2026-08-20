@@ -51,8 +51,8 @@ Actualmente soy Técnico Superior Universitario (TSU) próximo a iniciar mi Inge
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LawlielOwen&show_icons=true&count_private=true&title_color=39D353&icon_color=7A38D6&text_color=E7E3DC&bg_color=00000000&hide_border=true&border_radius=8" alt="estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawlielOwen&layout=compact&title_color=7A38D6&text_color=E7E3DC&bg_color=00000000&hide_border=true&border_radius=8" alt="lenguajes más usados" />
+<img height="165" src="https://github-readme-stats-seven-beta-69.vercel.app/api?username=LawlielOwen&show_icons=true&count_private=true&title_color=39D353&icon_color=7A38D6&text_color=E7E3DC&bg_color=00000000&hide_border=true&border_radius=8" alt="estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats-seven-beta-69.vercel.app/api/top-langs/?username=LawlielOwen&layout=compact&title_color=7A38D6&text_color=E7E3DC&bg_color=00000000&hide_border=true&border_radius=8" alt="lenguajes más usados" />
 
 <br>
 
