@@ -27,7 +27,7 @@
 
 <img align="right" width="150" src="https://i.pinimg.com/736x/c1/04/8c/c1048c2d2ff63f691fcab726a715b300.jpg" alt="mi mascota personal" />
 
-Actualmente soy Técnico Superior Universitario (TSU) próximo a iniciar mi Ingeniería. Me enfoco en el desarrollo Full Stack y considero a Java y TypeScript como mis lenguajes principales.
+Soy Técnico Superior Universitario (TSU) próximo a iniciar mi Ingeniería en Software. Me enfoco en el desarrollo Full Stack y considero Java y TypeScript como mis principales lenguajes.
 
 🔭 **Actualmente trabajo en:** desarrollo de soluciones multiplataforma, abarcando ecosistemas web, aplicaciones móviles y software de escritorio (mediante JavaFX).
 
