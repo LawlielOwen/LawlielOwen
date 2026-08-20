@@ -14,9 +14,9 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/PACTO-Full%20Stack%20Dev-39D353?style=for-the-badge&labelColor=0D0D10" alt="pacto" />
+<img src="https://img.shields.io/badge/PACTO-Full%20Stack%20Dev-B85C38?style=for-the-badge&labelColor=0D0D10" alt="pacto" />
 <img src="https://img.shields.io/badge/ENFOQUE-Java%20%26%20TypeScript-7A38D6?style=for-the-badge&labelColor=0D0D10" alt="enfoque" />
-<img src="https://img.shields.io/badge/APRENDIENDO-Linux%20%26%20Redes-39D353?style=for-the-badge&labelColor=0D0D10" alt="aprendiendo" />
+<img src="https://img.shields.io/badge/APRENDIENDO-Linux%20%26%20Redes-B85C38?style=for-the-badge&labelColor=0D0D10" alt="aprendiendo" />
 <img src="https://img.shields.io/badge/HOBBY-IoT%20%26%20ESP32-7A38D6?style=for-the-badge&labelColor=0D0D10" alt="hobby" />
 
 </div>
