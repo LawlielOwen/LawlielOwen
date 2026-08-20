@@ -7,19 +7,10 @@
 <a href="https://www.linkedin.com/in/osvaldogutierrezm" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-osvaldogutierrezm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D10" alt="LinkedIn" />
 </a>
-<a href="mailto:Karypekito@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Karypekito%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D10" alt="Gmail" />
-</a>
 
 <br><br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=32&pause=2500&color=C1121F&center=true&vCenter=true&width=600&height=55&lines=Hola!!+Soy+Osvaldo" alt="nombre" />
-</a>
-<br>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&weight=600&size=20&pause=1800&color=7B2CBF&center=true&vCenter=true&width=650&height=35&lines=Desarrollador+de+Software+Multiplataforma;Full+Stack+%7C+Java+%26+TypeScript;Uniendo+Web%2C+Mobile+e+IoT" alt="tagline" />
-</a>
+<img src="./assets/panel.svg" width="700" alt="Osvaldo — Desarrollador de Software Multiplataforma" />
 
 <br><br>
 
