@@ -42,9 +42,13 @@ Soy Técnico Superior Universitario (TSU) próximo a iniciar mi Ingeniería en S
 <div align="left">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,java,javascript,mongodb,typescript,ionic,tailwind,androidstudio,mysql,linux,sqlserver&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,java,js,mongodb,ts,ionic,tailwind,androidstudio,mysql,linux&theme=dark" />
 </a>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+     width="48"
+     height="48"
+     alt="Microsoft SQL Server" />
 </div>
 
 <br>
