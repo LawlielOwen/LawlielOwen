@@ -42,7 +42,7 @@ Soy Técnico Superior Universitario (TSU) próximo a iniciar mi Ingeniería en S
 <div align="left">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,java,javascript,mongodb,typescript,ionic,tailwind,androidstudio,mysql,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,java,javascript,mongodb,typescript,ionic,tailwind,androidstudio,mysql,linux,sqlserver&theme=dark" />
 </a>
 
 </div>
